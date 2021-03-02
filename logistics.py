@@ -128,6 +128,9 @@ class Order:
 
 
 class LogisticSystem:
+    '''
+    This module realizes logistics system.
+    '''
     def __init__(self, vehicles: List[Vehicle]):
         '''
         Initialize variables of LogisticSystem.
